@@ -42,7 +42,7 @@
         <div class="btn-box margin0auto">
             <Btn :txt="'提交'" @click="btn()"></Btn>
         </div>
-        <Footer selectIndex='0'></Footer>
+        <Footer selectIndex='1 '></Footer>
     </div>
 </template>
 
